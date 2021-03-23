@@ -1,0 +1,20 @@
+body, section {
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container {
+    background-color: papayawhip;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+
+.flex-item {
+    background-color: rgb(57, 122, 124);
+    padding: 10px;
+    margin: 5px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
