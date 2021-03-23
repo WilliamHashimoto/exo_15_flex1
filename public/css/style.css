@@ -16,5 +16,5 @@ body, section {
     margin: 5px;
     height: 100px;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
 }
